@@ -1,0 +1,22 @@
+{
+  "name": "@krosoft/tooling-tsconfig-vue",
+  "version": "0.0.1",
+  "description": "Krosoft TypeScript shared config for Vue",
+  "type": "module",
+  "exports": {
+    ".": "./tsconfig.vue.json"
+  },
+  "files": [
+    "tsconfig.vue.json"
+  ],
+  "peerDependencies": {
+    "@krosoft/tooling-tsconfig": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krosoft-dev/krosoft-tooling-tsconfig-vue.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
