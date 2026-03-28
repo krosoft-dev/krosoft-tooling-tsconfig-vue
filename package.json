@@ -10,7 +10,8 @@
     "tsconfig.vue.json"
   ],
   "peerDependencies": {
-    "@krosoft/tooling-tsconfig": "*"
+    "@krosoft/tooling-tsconfig": "*",
+    "typescript": "^5.0.0"
   },
   "repository": {
     "type": "git",
