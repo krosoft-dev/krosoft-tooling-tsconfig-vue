@@ -10,7 +10,7 @@
     "tsconfig.vue.json"
   ],
   "peerDependencies": {
-    "@krosoft/tooling-tsconfig": "^0.0.2",
+    "@krosoft/tooling-tsconfig": "^0.0.7",
     "typescript": "^5.9.3"
   },
   "repository": {
